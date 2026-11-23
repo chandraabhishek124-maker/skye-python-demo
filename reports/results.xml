@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="6.741" timestamp="2026-11-19T11:38:06.883282+05:30" hostname="ababchan-JCT0B24"><testcase classname="tests.test_example_domain" name="test_example_domain_title_and_content" time="6.402" /></testsuite></testsuites>
